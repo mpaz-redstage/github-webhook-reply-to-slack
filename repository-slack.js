@@ -1,7 +1,9 @@
-[{
-    repository: 'bot-test',
-    sendToSlackChannel: 'mauricio-test'
-},{
-    repository: 'trainworld',
-    sendToSlackChannel: 'mauricio-test2'
-}]
+{
+    [{
+        repository: 'bot-test',
+        sendToSlackChannel: 'mauricio-test'
+    },{
+        repository: 'trainworld',
+        sendToSlackChannel: 'mauricio-test2'
+    }]
+}
